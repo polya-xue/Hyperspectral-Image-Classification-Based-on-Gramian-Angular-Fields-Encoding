@@ -1,5 +1,8 @@
 # Hyperspectral-Image-Classification-Based-on-Gramian-Angular-Fields-Encoding
 
+Published paper:
+https://ieeexplore.ieee.org/document/9918420
+
 Abstract：
 Using convolutional neural networks (CNN) as a classifier has proven effective in hyperspectral image classifica- tion. However, overfitting is a common problem that CNN may face when spectral and spatial information are integrated into the input patch for modeling. Unlike previous approaches, a new feature processing method based on Gramian Angular Fields encoding is proposed in this paper. This specifically focuses on improving edge pixel accuracy for different classes by encoding the 1-D spectral feature into the 2-D Gramian matrix as the data samples that are independent to each other. Without the disturbance from neighboring noises, the spectral information can enhance the classification performance for each pixel using the proposed transformation scheme. Experiments show that the proposed method achieve higher accuracy on edge pixels than other CNN classification approaches.
 
